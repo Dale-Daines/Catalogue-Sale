@@ -1,4 +1,3 @@
-//Dale Daines - 16998416 - Assignment 2 - Store
 #include <iostream>
 #include <stack>
 #include "Catalogue.h"
@@ -63,7 +62,7 @@ void Store::traverse(int user = 0) {
 	while ( input > -1 ) {
 		int count = 0;
 		//if the node is an item
-		if ( node->info->item ) {
+		if ( node != NULL && node->info->item ) {
 			input = itemMenu(node, user);
 
 			if ( input == 0 ) {
