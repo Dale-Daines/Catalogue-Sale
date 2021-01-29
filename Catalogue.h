@@ -1,4 +1,3 @@
-//Dale Daines - 16998416 - Assignment 2 - Catalogue
 #include "Item.h"
 #include "Category.h"
 #include "binaryTree.h"
