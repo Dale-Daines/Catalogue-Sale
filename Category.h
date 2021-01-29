@@ -1,4 +1,3 @@
-//Dale Daines - 16998416 - Assignment 2 - Catagory
 #include <string>
 #ifndef CATEGORY_H_
 #define CATEGORY_H_
