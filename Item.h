@@ -1,4 +1,3 @@
-//Dale Daines - 16998416 - Assignment 2 - Item
 #include <string>
 #include "Category.h"
 #ifndef ITEM_H_
